@@ -13,3 +13,18 @@ function love.errorhandler(msg)
 end
 
 print("Hello World")
+
+function love.load()
+    var = "green"
+
+    player = {}
+    
+end
+
+function love.update()
+
+end
+
+function love.draw()
+
+end
