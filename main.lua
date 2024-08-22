@@ -11,20 +11,3 @@ function love.errorhandler(msg)
         return love_errorhandler(msg)
     end
 end
-
-print("Hello World")
-
-function love.load()
-    var = "green"
-
-    player = {}
-    
-end
-
-function love.update()
-
-end
-
-function love.draw()
-
-end
